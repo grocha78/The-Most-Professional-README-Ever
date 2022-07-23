@@ -23,3 +23,10 @@ This project is licensed under the MIT license. Please click here for more info:
 # Contact
 If you have any questions about the repository or about this application please send an email to: rochalupe@gmail.com
 - Github: grocha78
+
+Video Link:
+<iframe src="https://drive.google.com/file/d/1KP7Yfx_scRNTxiSo61MWJugLtaujpAju/preview" width="640" height="480"></iframe>
+
+Screenshots:
+<img width="566" alt="Screen Shot 2022-07-23 at 2 05 09 PM" src="https://user-images.githubusercontent.com/105673691/180619657-fd8cc95c-0386-41c0-ac24-cf9a8334e89d.png">
+<img width="1440" alt="Screen Shot 2022-07-23 at 2 02 57 PM" src="https://user-images.githubusercontent.com/105673691/180619654-54c18196-7528-4bb9-8c94-480de6789b0d.png">
