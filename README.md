@@ -1,7 +1,7 @@
 # The-Most-Professional-README-Ever
 https://github.com/grocha78/The-Most-Professional-README-Ever
 ## Description 
-This application will generate a README file using node.js
+This app generates a README file using node.js
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,11 +12,11 @@ This application will generate a README file using node.js
 The following dependencies must be installed to run the application:
 Inquirer 8.2.4
 ## Usage
-In order to use this application: Type node index in terminal and answer all following questions.
+In order to use this application: Type node index into the terminal, press enter and then answer all questions when prompted
 ## Tests
 None
 ## Credits
-This was created by me, Guadaulupe Rocha
+Guadalupe Rocha
 ## License
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 This project is licensed under the MIT license. Please click here for more info: https://opensource.org/licenses/MIT
