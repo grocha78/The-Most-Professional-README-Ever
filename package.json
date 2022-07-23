@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/grocha78/The-Most-Professional-README-Ever/issues"
   },
-  "homepage": "https://github.com/grocha78/The-Most-Professional-README-Ever#readme"
+  "homepage": "https://github.com/grocha78/The-Most-Professional-README-Ever#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
