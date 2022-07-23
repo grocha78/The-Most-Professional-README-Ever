@@ -1,7 +1,7 @@
-# run-buddy
-https://github.com/grocha78/run-buddy
+# The-Most-Professional-README-Ever
+https://github.com/grocha78/The-Most-Professional-README-Ever
 ## Description 
-Exercise application
+This application will generate a README file using node.js
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,16 +10,16 @@ Exercise application
 - [License](#license)
 ## Installation
 The following dependencies must be installed to run the application:
-None
+Inquirer 8.2.4
 ## Usage
-In order to use this application, Fill in blanks to have a trainer assigned to you
+In order to use this application: Type node index in terminal and answer all following questions.
 ## Tests
 None
 ## Credits
-None
+This was created by me, Guadaulupe Rocha
 ## License
-![License](https://img.shields.io/badge/license-GPL-blue.svg)
-This project is licensed under the GPL license. Please click here for more info: https://opensource.org/licenses/GPL-3.0
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+This project is licensed under the MIT license. Please click here for more info: https://opensource.org/licenses/MIT
 # Contact
 If you have any questions about the repository or about this application please send an email to: rochalupe@gmail.com
 - Github: grocha78
